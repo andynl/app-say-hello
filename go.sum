@@ -1,2 +1,6 @@
 github.com/andynl/go-say-hello v1.0.0 h1:ETOUA6Vg7cH6keeEYBoOnNY1QE88HFngJL1D02ZiQCI=
 github.com/andynl/go-say-hello v1.0.0/go.mod h1:0f8KSBVQFlg6vJbhuqEcN/I/mfcnZpLy1X3BEwOk0G4=
+github.com/andynl/go-say-hello v1.5.0 h1:oXtrI2c01GfqE8mtG6yqgy5YdoqvI6ocqO/jbdvyy48=
+github.com/andynl/go-say-hello v1.5.0/go.mod h1:0f8KSBVQFlg6vJbhuqEcN/I/mfcnZpLy1X3BEwOk0G4=
+github.com/andynl/go-say-hello/v2 v2.0.0 h1:6MBpuefkhCNjvNi30tPZu0zmr6pPk0BUCpa43G2PeDk=
+github.com/andynl/go-say-hello/v2 v2.0.0/go.mod h1:JkxIZEItHLra4sLxXEhqVjsfYQUDL8kvMeEuZrMT2Cg=
